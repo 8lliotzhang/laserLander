@@ -12,4 +12,5 @@ Music By Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0
 https://creativecommons.org/licenses/by/4.0/
 
-Thanks to 
+trying to get the file to work...
+https://8lliotzhang.github.io/laserLander/
