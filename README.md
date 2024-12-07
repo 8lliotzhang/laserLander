@@ -1,16 +1,17 @@
 # laserLander
-By Team Kelliason ( Kelso A, Elliot Z, Jason L)
+By Team Kelliason (Kelso A, Elliot Z, Jason L)
 
 Created for Counterspell Ottawa, 2024.
 Theme: You are your own enemy.
 
 Use W, A, and D to control the lunar lander. However, the laser turret is also controlled by your movements! You must dodge the turret as you fly to the landing site. 
 
-
+Play on itch.io
+https://kelliason.itch.io/laserlander
 
 Music By Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0
 https://creativecommons.org/licenses/by/4.0/
 
-trying to get the file to work...
+(this is broken help)
 https://8lliotzhang.github.io/laserLander/
